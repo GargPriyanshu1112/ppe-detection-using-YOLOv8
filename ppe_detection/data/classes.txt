@@ -1,0 +1,5 @@
+hard-hat
+gloves
+boots
+vest
+ppe-suit

@@ -1,0 +1,1 @@
+<annotation><filename>cropped_001045_0.jpg</filename><size><width>185</width><height>313</height></size><object><name>gloves</name><bndbox><xmin>76</xmin><ymin>178</ymin><xmax>118</xmax><ymax>222</ymax></bndbox></object><object><name>ppe-suit</name><bndbox><xmin>2</xmin><ymin>25</ymin><xmax>176</xmax><ymax>309</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><filename>cropped_001388_4.jpg</filename><size><width>38</width><height>134</height></size><object><name>boots</name><bndbox><xmin>26</xmin><ymin>125</ymin><xmax>35</xmax><ymax>134</ymax></bndbox></object><object><name>boots</name><bndbox><xmin>0</xmin><ymin>123</ymin><xmax>19</xmax><ymax>131</ymax></bndbox></object></annotation>

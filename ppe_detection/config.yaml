@@ -1,0 +1,9 @@
+path: # path/to/train/data
+train: images/train
+val: images/val
+names:
+  0: hard-hat
+  1: gloves
+  2: boots
+  3: vest
+  4: ppe-suit
